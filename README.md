@@ -8,6 +8,8 @@ Tasks completed:
 2. Topic Modeling
   - Exploratory Data Analysis: inside [TopicModelling.ipynb](https://github.com/zoezhousy/Kaggle_A_Million_News_Headlines/blob/main/TopicModelling.ipynb)
   - LSA & LDA: [TopicModelling.ipynb](https://github.com/zoezhousy/Kaggle_A_Million_News_Headlines/blob/main/TopicModelling.ipynb)
+  - BERT: [BERT.ipynb](https://github.com/zoezhousy/Kaggle_A_Million_News_Headlines/blob/main/BERT.ipynb) --> unsatisfactory TD
+  - BERTopic: [BERTopic.ipynb](https://github.com/zoezhousy/Kaggle_A_Million_News_Headlines/blob/main/BERTopic.ipynb) 
 
 3. Headline Classification
    - BERT, BART, GPT-2, RoBERTa
